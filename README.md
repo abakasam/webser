@@ -4,7 +4,7 @@ Simple node web server
 
 ## Codenames
 
-version | codename
+Version | Codename
 --------|----------
  0      | pan
  1      | cup
