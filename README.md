@@ -2,6 +2,18 @@
 
 Simple node web server
 
+## Codenames
+
+version | codename
+--------|----------
+ 0      | pan
+ 1      | cup
+ 2      | pot
+ 3      | fork
+ 4      | spoon
+ 5      | bowl
+ 6      | plate
+
 ## Running
 
 Set PUBLIC_HTML in web.js
