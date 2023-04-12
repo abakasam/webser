@@ -1,0 +1,34 @@
+0.0.0
+
+Removing frustration of a developer's web server
+Default public_html
+web.js: PUBLIC_HTML=/home/cabox/workspace/abakasam/local/public_html
+
+0.0.1
+
+Set environmental variables
+
+0.1.0
+
+Download file
+Upload file
+
+0.2.0
+
+Process form
+
+0.3.0
+
+Set headers
+Not Found
+URL path
+
+0.4.0
+
+Display media
+Serve seperate directory
+
+1.0.0
+
+Query database
+Query metadata
